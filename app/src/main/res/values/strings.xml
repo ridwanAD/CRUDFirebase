@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Firebase</string>
+    <string name="semester">Semester</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="nama">Nama</string>
+    <string name="simpan">Simpan</string>
+    <string name="input_form">Input Form</string>
+</resources>
